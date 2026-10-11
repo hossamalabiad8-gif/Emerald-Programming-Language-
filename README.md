@@ -41,7 +41,7 @@ Python **3.10 or newer**.
 Emerald files use the `.em` extension.
 
 ```bash
-python -m main hello.em
+python -m main {your_file_name}.em
 ```
 
 ## Language Guide
