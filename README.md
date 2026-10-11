@@ -14,7 +14,7 @@ Emerald (short name: *Emelang*) is an experimental language built from scratch i
 
 ## A first look
 
-```
+```emerald
 name = ask "What is your name? " str
 say "Hello, " & name & "!"
 
@@ -40,8 +40,8 @@ Python **3.10 or newer**.
 
 Emerald files use the `.em` extension.
 
-```
-python main.py hello.em
+```bash
+python -m main hello.em
 ```
 
 ## Language Guide
