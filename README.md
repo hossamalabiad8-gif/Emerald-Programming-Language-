@@ -32,6 +32,9 @@ Emerald 2
 Emerald 3
 ```
 
+![Emerald-Demo](emerald-demo.gif)
+
+
 ## Requirements
 
 Python **3.10 or newer**.
